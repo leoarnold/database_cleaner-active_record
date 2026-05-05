@@ -8,7 +8,7 @@ gem "benchmark"
 gem "bigdecimal"
 gem "logger"
 gem "mutex_m"
-gem "rails", "~> 7.2.0"
+gem "rails", "~> 8.1.0"
 
 group :test do
   gem "simplecov", require: false
